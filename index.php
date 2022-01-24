@@ -4,7 +4,7 @@
 <head>
     <title>吃掉wkh</title>
     <meta itemprop="name" content="吃掉wkh" />
-    <meta itemprop="description" content="新概念音游" />
+    <meta itemprop="description" content="一个美食游戏" />
     <meta itemprop="image" content="https://www.thac.cc/kano/res/logo.jpg" />
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, width=device-width,target-densitydpi=device-dpi" />
@@ -41,7 +41,7 @@
                 <div style="font-size:2.6em; color:#FEF002;">新概念音游</div><br />
                 <div style="font-size:2.2em; color:#fff; line-height:1.5em;">
                     从最底下wkh开始<br />
-                    看看你20秒能多少分<br />
+                    看看你20秒能吃多少个<br />
                 </div>
                 <br />
                 <div id="btn_group" style="display: block;">
